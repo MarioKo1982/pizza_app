@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Mc Pomas",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/1mc_tomas.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/1mc_tomas.jpg",
     "notice": "4.4",
     "lat": 54.497157,
     "lng": 18.508709
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Monteverdi",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/2monteverdi.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/2monteverdi.jpg",
     "notice": "4.3",
     "lat": 54.516619, 
     "lng": 18.541984
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Ogniem i piekę",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/3ogniem-piecem.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/3ogniem-piecem.jpg",
     "notice": "4.3",
     "lat": 54.511765, 
     "lng": 18.539375
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Gdynianka",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/4gdynianka.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/4gdynianka.jpg",
     "notice": "4.7",
     "lat": 54.513933, 
     "lng": 18.540377
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Flour & coffe ",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/5maka_kawa.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/5maka_kawa.jpg",
     "notice": "4.5",
     "lat": 54.513817, 
     "lng": 18.540295
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Viva la pizza",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/6viva_la_pizza.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/6viva_la_pizza.jpg",
     "notice": "4.3",
     "lat": 54.515634, 
     "lng": 18.541086
