@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Przestronne mieszkanie z ogrodem Gdynia Altoria",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/blob/master/images/1Altoria.jpg",
     "price": 315,
     "priceCurrency": "PLN",
     "lat": 54.476535,  
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Klimatyczny apartament z widokiem na morze",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/blob/master/images/2Waszyngtona.jpg",
     "price": 220,
     "priceCurrency": "PLN",
     "lat": 54.521422, 
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Nowoczesny apartament w doskonałej lokalizacji",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/blob/master/images/3roszczynialskiego.jpg",
     "price": 230,
     "priceCurrency": "PLN",
     "lat": 54.480616, 
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Redłowo Kaskada Redłowska , 3 pokoje z widokiem !",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/blob/master/images/4kaskadaredlowska.jpg",
     "price": 2399,
     "priceCurrency": "PLN",
     "lat": 48.881840,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Widok na Morze, 2 Balkony, 3 pokoje, Sea Towers",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/blob/master/images/5seatower.jpg",
     "price": 550,
     "priceCurrency": "PLN",
     "lat": 54.521791, 
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Nowoczesne, mieszkanie w Altusie",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://github.com/MarioKo1982/pizza_app/blob/master/images/6altus.jpg",
     "price": 220,
     "priceCurrency": "PLN",
     "lat": 54.491563, 
