@@ -1,50 +1,56 @@
 [
   {
-    "id": 1,
-    "name": "Mc Pomas",
-    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/1mc_tomas.jpg",
-    "notice": "4.4",
-    "lat": 54.497157,
-    "lng": 18.508709
+    "id": 145,
+    "name": "Przestronne mieszkanie z ogrodem Gdynia Altoria",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
+    "price": 315,
+    "priceCurrency": "PLN",
+    "lat": 54.476535,  
+    "lng": 18.504263
   },
   {
-    "id": 2,
-    "name": "Monteverdi",
-    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/2monteverdi.jpg",
-    "notice": "4.3",
-    "lat": 54.516619, 
-    "lng": 18.541984
+    "id": 148,
+    "name": "Klimatyczny apartament z widokiem na morze",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "price": 220,
+    "priceCurrency": "PLN",
+    "lat": 54.521422, 
+    "lng": 18.548982
   },
   {
-    "id": 3,
-    "name": "Ogniem i piekę",
-    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/3ogniem-piecem.jpg",
-    "notice": "4.3",
-    "lat": 54.511765, 
-    "lng": 18.539375
+    "id": 201,
+    "name": "Nowoczesny apartament w doskonałej lokalizacji",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "price": 230,
+    "priceCurrency": "PLN",
+    "lat": 54.480616, 
+    "lng": 18.553992
   },
   {
-    "id": 4,
-    "name": "Gdynianka",
-    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/4gdynianka.jpg",
-    "notice": "4.7",
-    "lat": 54.513933, 
-    "lng": 18.540377
+    "id": 205,
+    "name": "Redłowo Kaskada Redłowska , 3 pokoje z widokiem !",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "price": 2399,
+    "priceCurrency": "PLN",
+    "lat": 48.881840,
+    "lng": 2.343371
   },
   {
-    "id": 5,
-    "name": "Flour & coffe ",
-    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/5maka_kawa.jpg",
-    "notice": "4.5",
-    "lat": 54.513817, 
-    "lng": 18.540295
+    "id": 210,
+    "name": "Widok na Morze, 2 Balkony, 3 pokoje, Sea Towers",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "price": 550,
+    "priceCurrency": "PLN",
+    "lat": 54.521791, 
+    "lng": 18.548936
   },
   {
-    "id": 6,
-    "name": "Viva la pizza",
-    "imageUrl": "https://github.com/MarioKo1982/pizza_app/tree/master/images/6viva_la_pizza.jpg",
-    "notice": "4.3",
-    "lat": 54.515634, 
-    "lng": 18.541086
+    "id": 211,
+    "name": "Nowoczesne, mieszkanie w Altusie",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 220,
+    "priceCurrency": "PLN",
+    "lat": 54.491563, 
+    "lng": 18.542381
   }
 ]
